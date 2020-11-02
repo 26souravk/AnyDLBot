@@ -2,12 +2,12 @@ class Translation(object):
     START_TEXT = """alive
 /help for help
 
-@Souk26
+OR CONTACT : @Souk26
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
-    UPGRADE_TEXT = """ no one gonna help you 🤣🤣🤣🤣 """
+    UPGRADE_TEXT = """ Contact : @Souk26 """
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -31,8 +31,11 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan detailo
 --------
 
-Plan name: <a href='https://t.me/SpEcHlDe/599'>{}</a>
-Expires on: {}"""
+About Me 
+--------
+Iam A Robot , Which Helps In Video Conversation , Rename , And Much More
+My Master ---> @Souk26
+Thanks For Using Me. Please Join @Moviesbazz"""
     HELP_USER = """There are multiple things I can do:
 ⭕ Upload as file from any HTTP link, with custom thumbnail support
 ⭕ Convert To Streamable Video, any Telegram file
