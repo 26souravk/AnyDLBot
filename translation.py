@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """alive
 /help for help
 
-https://github.com/26souravk/AnyDLBot
+https://t.me/souk26
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -34,7 +34,6 @@ URL | filename | username | password"""
 Plan name: <a href='https://t.me/SpEcHlDe/599'>{}</a>
 Expires on: {}"""
     HELP_USER = """There are multiple things I can do:
-⭕ All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, with custom file name and custom thumbnail support
 ⭕ Upload as file from any HTTP link, with custom thumbnail support
 ⭕ Convert To Streamable Video, any Telegram file
 ⭕ Convert To Telegram Audio, the media sent as Telegram Documents
