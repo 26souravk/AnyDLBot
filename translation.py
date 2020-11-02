@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """alive
 /help for help
 
-https://t.me/souk26
+@Souk26
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -26,9 +26,9 @@ URL | filename | username | password"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "something is wrong with the URL you gave me 🤦‍♀️. If you think this could be a bug please report on https://github.com/spechide/AnyDLBot/issues OR @ThankTelegram\n<b>YouTubeDL</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "something is wrong with the URL you gave me 🤦‍♀️. If you think this could be a bug please report To @Souk26"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    CURENT_PLAN_DETAILS = """Current plan details
+    CURENT_PLAN_DETAILS = """Current plan detailo
 --------
 
 Plan name: <a href='https://t.me/SpEcHlDe/599'>{}</a>
