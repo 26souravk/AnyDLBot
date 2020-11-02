@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """alive
 /help for help
 
-https://github.com/David-raj123/AnyDLBot
+https://github.com/26souravk/AnyDLBot
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -42,7 +42,7 @@ Expires on: {}"""
 ⭕ Generate Custom Thumbnail by sending two photos in a Media Album
 ⭕ Trim large videos,and Take Screenshots of Telegram media files.
 ⭕ Extract compressed Telegram media
-⭕ Get a Telegram sticker as a Telegram downloadable media By @David9010
+⭕ Get a Telegram sticker as a Telegram downloadable media By @Souk26
 --------
 Send /me to know current plan details"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
@@ -64,10 +64,10 @@ Send /me to know current plan details"""
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/TheUseLessGroup'>@David9010</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/TheUseLessGroup'>@Souk26</a>"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
-    GET_LINK_ERRS_OCCURED = "Sorry the following Errors occurred: \n{}\nPlease check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/TheUseLessGroup'>@David9010</a>"
+    GET_LINK_ERRS_OCCURED = "Sorry the following Errors occurred: \n{}\nPlease check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/TheUseLessGroup'>@Souk26</a>"
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
