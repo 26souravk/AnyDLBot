@@ -28,11 +28,12 @@ URL | filename | username | password"""
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "something is wrong with the URL you gave me 🤦‍♀️. If you think this could be a bug please report To @Souk26"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    CURENT_PLAN_DETAILS = """Current plan detail
+    CURENT_PLAN_DETAILS = """⭕️Current plan detail
 --------
 If You Cant Use This Bot That's Mean No Plan Is Activated For You.
 To Use This Bot /upgrade 
-About Me 
+
+⭕️About Me 
 --------
 Iam A Robot , Which Helps In Video Conversation , Rename , And Much More
 My Master ---> @Souk26
